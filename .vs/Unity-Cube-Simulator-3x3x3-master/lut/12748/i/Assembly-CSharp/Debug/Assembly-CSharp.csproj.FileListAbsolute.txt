@@ -1,0 +1,592 @@
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Assembly-CSharp.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Microsoft.Win32.Primitives.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\mscorlib.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\netstandard.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\nunit.framework.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.AppContext.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Collections.Concurrent.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Collections.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Collections.NonGeneric.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Collections.Specialized.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.ComponentModel.Composition.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.ComponentModel.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.ComponentModel.EventBasedAsync.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.ComponentModel.Primitives.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.ComponentModel.TypeConverter.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Console.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Core.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Data.Common.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Data.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Diagnostics.Contracts.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Diagnostics.Debug.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Diagnostics.FileVersionInfo.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Diagnostics.Process.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Diagnostics.StackTrace.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Diagnostics.TextWriterTraceListener.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Diagnostics.Tools.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Diagnostics.TraceSource.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Diagnostics.Tracing.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Drawing.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Drawing.Primitives.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Dynamic.Runtime.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Globalization.Calendars.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Globalization.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Globalization.Extensions.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.Compression.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.Compression.FileSystem.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.Compression.ZipFile.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.FileSystem.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.FileSystem.DriveInfo.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.FileSystem.Primitives.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.FileSystem.Watcher.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.IsolatedStorage.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.MemoryMappedFiles.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.Pipes.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.UnmanagedMemoryStream.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Linq.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Linq.Expressions.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Linq.Parallel.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Linq.Queryable.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.Http.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.NameResolution.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.NetworkInformation.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.Ping.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.Primitives.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.Requests.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.Security.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.Sockets.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.WebHeaderCollection.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.WebSockets.Client.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.WebSockets.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Numerics.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Numerics.Vectors.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.ObjectModel.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Reflection.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Reflection.Extensions.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Reflection.Primitives.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Resources.Reader.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Resources.ResourceManager.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Resources.Writer.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.CompilerServices.VisualC.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.Extensions.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.Handles.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.InteropServices.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.Numerics.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.Serialization.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.Serialization.Formatters.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.Serialization.Json.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.Serialization.Primitives.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.Serialization.Xml.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Security.Claims.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Security.Cryptography.Algorithms.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Security.Cryptography.Csp.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Security.Cryptography.Encoding.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Security.Cryptography.Primitives.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Security.Cryptography.X509Certificates.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Security.Principal.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Security.SecureString.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.ServiceModel.Web.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Text.Encoding.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Text.Encoding.Extensions.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Text.RegularExpressions.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Threading.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Threading.Overlapped.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Threading.Tasks.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Threading.Tasks.Parallel.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Threading.Thread.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Threading.ThreadPool.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Threading.Timer.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Transactions.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.ValueTuple.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Web.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Windows.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Xml.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Xml.Linq.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Xml.ReaderWriter.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Xml.Serialization.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Xml.XDocument.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Xml.XmlDocument.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Xml.XmlSerializer.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Xml.XPath.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Xml.XPath.XDocument.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Analytics.DataPrivacy.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Analytics.Editor.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Analytics.StandardEvents.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Analytics.Tracker.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.CollabProxy.Editor.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Locator.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.PackageManagerUI.Editor.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.TextMeshPro.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.TextMeshPro.Editor.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEditor.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AccessibilityModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AIModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AnimationModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ARModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AssetBundleModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AudioModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.BaselibModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ClothModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ClusterInputModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ClusterRendererModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.CoreModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.CrashReportingModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.DirectorModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.FileSystemHttpModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.GameCenterModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.GoogleAudioSpatializer.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.GridModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.HotReloadModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ImageConversionModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.IMGUIModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.InputModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.JSONSerializeModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.LocalizationModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.Networking.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ParticleSystemModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.PerformanceReportingModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.Physics2DModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.PhysicsModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ProfilerModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ScreenCaptureModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SharedInternalsModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SpatialTracking.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SpriteMaskModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SpriteShapeModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.StreamingModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.StyleSheetsModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SubstanceModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TerrainModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TerrainPhysicsModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TestRunner.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TextCoreModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TextRenderingModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TilemapModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.Timeline.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TimelineModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TLSModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UI.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UIElementsModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UIModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UmbraModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UNETModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityAnalyticsModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityConnectModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityTestProtocolModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.VehiclesModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.VFXModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.VideoModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.VRModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.WindModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.XRModule.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Vuforia.UnityExtensions.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Cecil.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.SerializationLogic.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.DataContract.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\ExCSS.Unity.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Legacy.NRefactory.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.UNetWeaver.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.IvyParser.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.CecilTools.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Cecil.Pdb.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Cecil.Mdb.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEditor.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.TextMeshPro.Editor.pdb
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.PackageManagerUI.Editor.pdb
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.CollabProxy.Editor.pdb
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.TextMeshPro.pdb
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Analytics.DataPrivacy.pdb
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AIModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ARModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AccessibilityModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AnimationModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AssetBundleModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AudioModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.BaselibModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ClothModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ClusterInputModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ClusterRendererModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.CoreModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.CrashReportingModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.DirectorModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.FileSystemHttpModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.GameCenterModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.GridModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.HotReloadModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.IMGUIModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ImageConversionModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.InputModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.JSONSerializeModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.LocalizationModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ParticleSystemModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.PerformanceReportingModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.PhysicsModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.Physics2DModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ProfilerModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ScreenCaptureModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SharedInternalsModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SpriteMaskModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SpriteShapeModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.StreamingModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.StyleSheetsModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SubstanceModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TLSModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TerrainModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TerrainPhysicsModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TextCoreModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TextRenderingModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TilemapModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TimelineModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UIModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UIElementsModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UNETModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UmbraModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityAnalyticsModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityConnectModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityTestProtocolModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.VFXModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.VRModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.VehiclesModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.VideoModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.WindModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.XRModule.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UI.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TestRunner.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\nunit.framework.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.Timeline.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.Networking.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Vuforia.UnityExtensions.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.GoogleAudioSpatializer.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SpatialTracking.xml
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\cs\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\de\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\es\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\fr\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\it\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\ja\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\ko\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\pl\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\pt-BR\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\ru\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\tr\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\zh-Hans\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\zh-Hant\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\i\Assembly-CSharp\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\i\Assembly-CSharp\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\i\Assembly-CSharp\Debug\Assembly-CSharp.dll
+D:\Backup Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\i\Assembly-CSharp\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Assembly-CSharp.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Microsoft.Win32.Primitives.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\mscorlib.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\netstandard.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\nunit.framework.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.AppContext.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Collections.Concurrent.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Collections.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Collections.NonGeneric.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Collections.Specialized.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.ComponentModel.Composition.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.ComponentModel.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.ComponentModel.EventBasedAsync.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.ComponentModel.Primitives.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.ComponentModel.TypeConverter.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Console.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Core.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Data.Common.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Data.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Diagnostics.Contracts.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Diagnostics.Debug.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Diagnostics.FileVersionInfo.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Diagnostics.Process.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Diagnostics.StackTrace.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Diagnostics.TextWriterTraceListener.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Diagnostics.Tools.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Diagnostics.TraceSource.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Diagnostics.Tracing.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Drawing.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Drawing.Primitives.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Dynamic.Runtime.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Globalization.Calendars.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Globalization.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Globalization.Extensions.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.Compression.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.Compression.FileSystem.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.Compression.ZipFile.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.FileSystem.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.FileSystem.DriveInfo.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.FileSystem.Primitives.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.FileSystem.Watcher.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.IsolatedStorage.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.MemoryMappedFiles.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.Pipes.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.IO.UnmanagedMemoryStream.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Linq.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Linq.Expressions.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Linq.Parallel.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Linq.Queryable.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.Http.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.NameResolution.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.NetworkInformation.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.Ping.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.Primitives.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.Requests.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.Security.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.Sockets.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.WebHeaderCollection.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.WebSockets.Client.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Net.WebSockets.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Numerics.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Numerics.Vectors.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.ObjectModel.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Reflection.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Reflection.Extensions.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Reflection.Primitives.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Resources.Reader.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Resources.ResourceManager.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Resources.Writer.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.CompilerServices.VisualC.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.Extensions.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.Handles.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.InteropServices.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.Numerics.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.Serialization.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.Serialization.Formatters.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.Serialization.Json.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.Serialization.Primitives.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Runtime.Serialization.Xml.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Security.Claims.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Security.Cryptography.Algorithms.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Security.Cryptography.Csp.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Security.Cryptography.Encoding.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Security.Cryptography.Primitives.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Security.Cryptography.X509Certificates.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Security.Principal.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Security.SecureString.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.ServiceModel.Web.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Text.Encoding.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Text.Encoding.Extensions.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Text.RegularExpressions.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Threading.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Threading.Overlapped.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Threading.Tasks.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Threading.Tasks.Parallel.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Threading.Thread.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Threading.ThreadPool.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Threading.Timer.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Transactions.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.ValueTuple.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Web.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Windows.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Xml.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Xml.Linq.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Xml.ReaderWriter.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Xml.Serialization.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Xml.XDocument.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Xml.XmlDocument.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Xml.XmlSerializer.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Xml.XPath.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\System.Xml.XPath.XDocument.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Analytics.DataPrivacy.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Analytics.Editor.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Analytics.StandardEvents.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Analytics.Tracker.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.CollabProxy.Editor.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Locator.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.PackageManagerUI.Editor.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.TextMeshPro.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.TextMeshPro.Editor.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEditor.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AccessibilityModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AIModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AnimationModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ARModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AssetBundleModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AudioModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.BaselibModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ClothModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ClusterInputModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ClusterRendererModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.CoreModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.CrashReportingModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.DirectorModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.FileSystemHttpModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.GameCenterModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.GoogleAudioSpatializer.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.GridModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.HotReloadModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ImageConversionModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.IMGUIModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.InputModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.JSONSerializeModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.LocalizationModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.Networking.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ParticleSystemModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.PerformanceReportingModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.Physics2DModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.PhysicsModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ProfilerModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ScreenCaptureModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SharedInternalsModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SpatialTracking.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SpriteMaskModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SpriteShapeModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.StreamingModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.StyleSheetsModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SubstanceModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TerrainModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TerrainPhysicsModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TestRunner.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TextCoreModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TextRenderingModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TilemapModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.Timeline.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TimelineModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TLSModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UI.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UIElementsModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UIModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UmbraModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UNETModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityAnalyticsModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityConnectModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityTestProtocolModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestAudioModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestTextureModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestWWWModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.VehiclesModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.VFXModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.VideoModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.VRModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.WindModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.XRModule.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Vuforia.UnityExtensions.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Cecil.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.SerializationLogic.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.DataContract.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\ExCSS.Unity.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Legacy.NRefactory.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.UNetWeaver.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.IvyParser.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.CecilTools.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Cecil.Pdb.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Cecil.Mdb.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEditor.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.TextMeshPro.Editor.pdb
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.PackageManagerUI.Editor.pdb
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.CollabProxy.Editor.pdb
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.TextMeshPro.pdb
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Unity.Analytics.DataPrivacy.pdb
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AIModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ARModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AccessibilityModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AnimationModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AssetBundleModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.AudioModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.BaselibModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ClothModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ClusterInputModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ClusterRendererModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.CoreModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.CrashReportingModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.DirectorModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.FileSystemHttpModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.GameCenterModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.GridModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.HotReloadModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.IMGUIModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ImageConversionModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.InputModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.JSONSerializeModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.LocalizationModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ParticleSystemModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.PerformanceReportingModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.PhysicsModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.Physics2DModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ProfilerModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.ScreenCaptureModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SharedInternalsModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SpriteMaskModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SpriteShapeModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.StreamingModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.StyleSheetsModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SubstanceModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TLSModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TerrainModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TerrainPhysicsModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TextCoreModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TextRenderingModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TilemapModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TimelineModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UIModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UIElementsModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UNETModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UmbraModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityAnalyticsModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityConnectModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityTestProtocolModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestAudioModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestTextureModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UnityWebRequestWWWModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.VFXModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.VRModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.VehiclesModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.VideoModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.WindModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.XRModule.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.UI.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.TestRunner.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\nunit.framework.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.Timeline.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.Networking.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\Vuforia.UnityExtensions.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.GoogleAudioSpatializer.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\UnityEngine.SpatialTracking.xml
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\cs\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\de\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\es\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\fr\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\it\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\ja\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\ko\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\pl\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\pt-BR\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\ru\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\tr\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\zh-Hans\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\b\zh-Hant\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\i\Assembly-CSharp\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\i\Assembly-CSharp\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\i\Assembly-CSharp\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\dev\Licenta\Unity-Cube-Simulator-3x3x3-master\.vs\Unity-Cube-Simulator-3x3x3-master\lut\0\i\Assembly-CSharp\Debug\Assembly-CSharp.dll
